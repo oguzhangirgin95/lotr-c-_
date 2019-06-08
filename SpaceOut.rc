@@ -1,0 +1,82 @@
+//-----------------------------------------------------------------
+// Space Out Resources
+// RC Source - SpaceOut.rc
+//-----------------------------------------------------------------
+
+//-----------------------------------------------------------------
+// Include Files
+//-----------------------------------------------------------------
+#include "Resource.h"
+
+//-----------------------------------------------------------------
+// Icons
+//-----------------------------------------------------------------
+IDI_SPACEOUT          ICON         "SpaceOut.ico"
+IDI_SPACEOUT_SM       ICON         "SpaceOut_sm.ico"
+
+//-----------------------------------------------------------------
+// Bitmaps
+//-----------------------------------------------------------------
+IDB_DESERT              BITMAP                  "Desert.bmp"
+
+IDB_CAR                 BITMAP                  "Frodo.bmp"
+
+IDB_SMCAR               BITMAP                  "SmCar.bmp"
+
+IDB_MISSILE             BITMAP                  "Missile.bmp"
+
+IDB_BLOBBO              BITMAP                  "Blobbo.bmp"
+
+IDB_BMISSILE            BITMAP                  "BMissile.bmp"
+
+IDB_JELLY               BITMAP                  "Jelly.bmp"
+
+IDB_JMISSILE            BITMAP                  "JMissile.bmp"
+
+IDB_TIMMY               BITMAP                  "Timmy.bmp"
+
+IDB_TMISSILE            BITMAP                  "TMissile.bmp"
+
+IDB_SMEXPLOSION         BITMAP                  "SmExplosion.bmp"
+
+IDB_LGEXPLOSION         BITMAP                  "LgExplosion.bmp"
+
+IDB_GAMEOVER            BITMAP                  "GameOver.bmp"
+
+IDB_GOLFBALL            BITMAP                  "GOLFBALL.bmp"
+
+IDB_POWER               BITMAP                  "Power.bmp"
+
+IDB_SPEED               BITMAP                  "Speed.bmp"
+
+IDB_DAMAGE              BITMAP                  "Damage.bmp"
+
+IDB_HEALTH              BITMAP                  "Health.bmp"
+
+IDB_GANDALF             BITMAP                  "Gandalf.bmp"
+
+IDB_WARRIORS            BITMAP                  "Warriors.bmp"
+
+IDB_NAZGUL              BITMAP                  "Nazgul.bmp"
+
+IDB_FOLLOWBACKGROUND    BITMAP                  "FollowBackground.bmp"
+
+IDB_FOLLOWBACKGROUND_R_L BITMAP                 "FollowBackground_R_L.bmp"
+
+IDB_THORIN              BITMAP                  "Thorin.bmp"
+
+IDB_SAURON              BITMAP                  "Sauron.bmp"
+
+IDB_AZOG                BITMAP                  "Azog.bmp"
+
+IDB_SMAUGH              BITMAP                  "Smaugh.bmp"
+//-----------------------------------------------------------------
+// Wave Sounds
+//-----------------------------------------------------------------
+IDW_MISSILE           WAVE         "Missile.wav"
+IDW_BMISSILE          WAVE         "BMissile.wav"
+IDW_JMISSILE          WAVE         "JMissile.wav"
+IDW_TMISSILE          WAVE         "TMissile.wav"
+IDW_SMEXPLODE         WAVE         "SmExplode.wav"
+IDW_LGEXPLODE         WAVE         "LgExplode.wav"
+IDW_GAMEOVER          WAVE         "GameOver.wav"
